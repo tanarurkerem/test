@@ -1,1 +1,8 @@
-jó kis fícsör, én írtam, tegyük me a masterbe degyorsan.
+/**
+ * @file
+ * szato feature
+ */
+
+J√≥ kis f√≠cs√∂r, √©n √≠rtam, tegy√ºk me a masterbe degyorsan.
+
+ 
